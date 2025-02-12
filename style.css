@@ -1,0 +1,18 @@
+#map{position:absolute; top:0; bottom:0; width:99%;}
+
+.popup-rose {
+    color: #d2168a;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* Style pour le titre dans le contrôleur de couches */
+.menu-titre {
+    font-size: 16px;
+    font-weight: bold; /* Met le texte en gras */
+    padding: 5px;
+    background-color: #ffa6d1; /* Couleur de fond pour le titre */
+    border-bottom: 2px solid #ccc; /* Ligne sous le titre */
+    text-align: center;
+    color: #d2168a; /* Couleur du texte */
+}
